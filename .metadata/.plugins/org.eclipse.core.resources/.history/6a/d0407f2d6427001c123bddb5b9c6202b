@@ -1,0 +1,13 @@
+package org.test;
+
+public class Test {
+	
+	private void studentName() {
+		System.out.println("Name");
+
+	}
+public static void main(String[] args) {
+	Test a=new Test();
+	a.studentName();
+}
+}
